@@ -70,6 +70,8 @@ function App() {
           </div>
         </div>
       )}
+      
+      <footer className='footer'>All rights reserved ©2023 Aruna Priyankara</footer>
     </div>
   );
 }
